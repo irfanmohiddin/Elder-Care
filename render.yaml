@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: elder-care
+    env: static
+    buildCommand: ""
+    staticPublishPath: clone project
